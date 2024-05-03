@@ -1,2 +1,3 @@
 ruleDirs:
-- ./tools/ci/sg_rules
+make menuconfig
+
